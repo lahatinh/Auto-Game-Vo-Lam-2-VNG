@@ -1,0 +1,7 @@
+LIBRARY athook
+DESCRIPTION 
+
+EXPORTS
+        InjectDll
+        UnmapDll
+        GetMsg

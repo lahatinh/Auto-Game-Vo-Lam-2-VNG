@@ -1,0 +1,16 @@
+﻿Public Const Hook_thamchieu1 As Long = &H989F08-chưa tìm được
+Public Const Hook_dichuyen As Long = &004F3370-0A3E658//004F2440-0AC9260//E9 B5 04 00 00 8B 45 0C 89 85 7C EE FF FF 83 BD
+7C EE FF FF 00
+Public Const Hook_thamchieu2 As Long = &HA2B378-chưa tìm được
+Public Const Hook_chat As Long = &H0062D6E0//0062C720//8B 50 08 83 C4 0C 6A 00 6A 00 6A 2D
+Public Const Hook_SendNPC As Long = 0048CC90//0048DA40//89 45 E4 6A 00
+Public Const Hook_VeThanh As Long = 00620540//0061F470//C3 6A 02 6A 00
+Public Const Hook_SuDungItem As Long = 004F7480-99DD0C//004F6550-0A24D0C//EB 07 33 C0 E9 3D 01 00 00 8B 45 F4 6B C0 14
+Public Const Hook_CheSauMT As Long = &004F74E0-99DD0C//004F65B0-0A24D0C//83 C4 0C 33 C0 EB 1B 8B 4D 10
+Public Const Hook_PicPut As Long = &004792A0//0047A4C0//83 EC 0C 8B CC 8B 55 B0 89 11
+Public Const Hook_CheDo As Long = 004F4C60-99DD0C//004F3D30-0A24D0C//75 05 E9 D5 14 00 00 8B 55 10 52
+Public Const Hook_ToDoi As Long = 004F7C00-99DD0C//004F6CD0-0A24D0C//8B 4D FC 0F BE 51 04 83 FA 01 74 1E
+Public Const Hook_CuoiNgua As Long =0048B240//0048BFF0//83 F8 19 75 20 6A 00
+Public Const Hook_levelUp As Long = 004F7670-99DD0C//004F6740-0A24D0C//E9 00 11 00 00
+Public Const Hook_ClickMenu As Long =006ED310//006EC890//7C 30 50
+Public Const Hook_BuyItem As Long = 4F52C0-99DD0C//004F4390-0A24D0C//83 C4 0C E9 E2 41 00 00 8B 95 B8 FD FF FF 52

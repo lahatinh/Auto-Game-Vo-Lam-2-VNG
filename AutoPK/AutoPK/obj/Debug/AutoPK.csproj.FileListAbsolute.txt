@@ -1,0 +1,59 @@
+G:\AutoVLTK2\Auto PK\AutoPK\AutoPK\bin\Debug\AutoPK.exe.config
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoPK.exe.config
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.Main.resources
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.Properties.Resources.resources
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\athook.dll
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoPK.exe
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoPK.pdb
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoClient.dll
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoClient.pdb
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.exe
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.pdb
+C:\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoPK.exe.config
+C:\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.exe
+C:\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.pdb
+C:\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\athook.dll
+C:\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoPK.exe
+C:\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoPK.pdb
+C:\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoClient.dll
+C:\Auto PK - New - Copy\AutoPK\AutoPK\bin\Debug\AutoClient.pdb
+C:\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.csprojResolveAssemblyReference.cache
+C:\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.Main.resources
+C:\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.Properties.Resources.resources
+C:\Auto PK - New - Copy\AutoPK\AutoPK\obj\Debug\AutoPK.csproj.GenerateResource.Cache
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoPK.exe.config
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.exe
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.pdb
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\bin\Debug\athook.dll
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoPK.exe
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoPK.pdb
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.csprojResolveAssemblyReference.cache
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.Main.resources
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.Properties.Resources.resources
+E:\AutoVLTK2\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.csproj.GenerateResource.Cache
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoPK.exe.config
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.exe
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.pdb
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\bin\Debug\hookxh.dll
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoPK.exe
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoPK.pdb
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoClient.dll
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\bin\Debug\AutoClient.pdb
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmAutoLogin.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmAutoTrain.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmClickNPC.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmComboTLQ.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmFormAutoGroup.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.Frmphuchoi.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmRaoban.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmThaydo.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmTNC.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FrmTNT.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.FromAutoBuff.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.Main.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.Properties.Resources.resources
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoPK\AutoPK\obj\Debug\AutoPK.csproj.GenerateResource.Cache

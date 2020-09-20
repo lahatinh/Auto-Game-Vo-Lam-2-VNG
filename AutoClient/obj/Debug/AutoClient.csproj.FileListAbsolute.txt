@@ -1,0 +1,103 @@
+D:\My Dropbox\Single Projects\autoOpen\AutoClient\bin\Debug\athook.dll
+D:\My Dropbox\Single Projects\autoOpen\AutoClient\bin\Debug\AutoClient.dll
+D:\My Dropbox\Single Projects\autoOpen\AutoClient\bin\Debug\AutoClient.pdb
+D:\My Dropbox\Single Projects\autoOpen\AutoClient\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Single Projects\autoOpen\AutoClient\obj\Debug\AutoClient.dll
+D:\My Dropbox\Single Projects\autoOpen\AutoClient\obj\Debug\AutoClient.pdb
+F:\autoOpen\autoOpen\AutoClient\bin\Debug\athook.dll
+F:\autoOpen\autoOpen\AutoClient\bin\Debug\AutoClient.dll
+F:\autoOpen\autoOpen\AutoClient\bin\Debug\AutoClient.pdb
+F:\autoOpen\autoOpen\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+F:\autoOpen\autoOpen\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+F:\autoOpen\autoOpen\AutoClient\obj\Debug\AutoClient.dll
+F:\autoOpen\autoOpen\AutoClient\obj\Debug\AutoClient.pdb
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\bin\Debug\athook.dll
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\bin\Debug\AutoClient.dll
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\bin\Debug\AutoClient.pdb
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.dll
+D:\du lieu 26.9.18\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.pdb
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\bin\Debug\athook.dll
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\bin\Debug\AutoClient.dll
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\bin\Debug\AutoClient.pdb
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.dll
+C:\Users\Administrator\Desktop\New folder\Nghi Auto gio b tu up nhe full o day\autoOpen\AutoClient\obj\Debug\AutoClient.pdb
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\bin\Debug\athook.dll
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\bin\Debug\AutoClient.dll
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\bin\Debug\AutoClient.pdb
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\obj\Debug\AutoClient.dll
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\obj\Debug\AutoClient.pdb
+C:\Users\Administrator\Desktop\auto\autoOpen\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\bin\Debug\athook.dll
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\bin\Debug\AutoClient.dll
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\bin\Debug\AutoClient.pdb
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\obj\Debug\AutoClient.dll
+E:\AutoVLTK2\auto 14.06.19\autoOpen\AutoClient\obj\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New\AutoClient\bin\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New\AutoClient\bin\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New\AutoClient\obj\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New\AutoClient\obj\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New\AutoClient\bin\Debug\AutoClient.dll
+G:\AutoVLTK2\Auto PK - New\AutoClient\bin\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+G:\AutoVLTK2\Auto PK - New\AutoClient\obj\Debug\AutoClient.dll
+G:\AutoVLTK2\Auto PK - New\AutoClient\obj\Debug\AutoClient.pdb
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\obj\Debug\AutoClient.dll
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\obj\Debug\AutoClient.pdb
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\bin\Debug\athook.dll
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\bin\Debug\AutoClient.dll
+C:\Users\Admin\Desktop\Auto PK - New\AutoClient\bin\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\bin\Debug\athook.dll
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\bin\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\bin\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\bin\Debug\AutoClient.dll
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\bin\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.dll
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.pdb
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoClient\bin\Debug\athook.dll
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoClient\bin\Debug\AutoClient.dll
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoClient\bin\Debug\AutoClient.pdb
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.dll
+C:\Users\Admin\Desktop\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\bin\Debug\athook.dll
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+E:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\Interop.AutoItX3Lib.dll
+G:\AutoVLTK2\Auto PK - New - Copy\AutoClient\obj\Debug\AutoClient.csproj.ResolveComReference.cache
+E:\AutoVLTK2\Auto PK - New\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+G:\AutoVLTK2\Auto PK - New 2\AutoClient\bin\Debug\athook.dll
+G:\AutoVLTK2\Auto PK - New 2\AutoClient\bin\Debug\AutoClient.dll
+G:\AutoVLTK2\Auto PK - New 2\AutoClient\bin\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New 2\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+G:\AutoVLTK2\Auto PK - New 2\AutoClient\obj\Debug\AutoClient.dll
+G:\AutoVLTK2\Auto PK - New 2\AutoClient\obj\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New 2\AutoClient\bin\Debug\athook.dll
+E:\AutoVLTK2\Auto PK - New 2\AutoClient\bin\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New 2\AutoClient\bin\Debug\AutoClient.pdb
+E:\AutoVLTK2\Auto PK - New 2\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+E:\AutoVLTK2\Auto PK - New 2\AutoClient\obj\Debug\AutoClient.dll
+E:\AutoVLTK2\Auto PK - New 2\AutoClient\obj\Debug\AutoClient.pdb
+G:\AutoVLTK2\Auto PK - New\AutoClient\bin\Debug\hookxh.dll
+E:\AutoVLTK2\Auto PK - New\AutoClient\bin\Debug\hookxh.dll
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoClient\bin\Debug\hookxh.dll
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoClient\bin\Debug\AutoClient.dll
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoClient\bin\Debug\AutoClient.pdb
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoClient\obj\Debug\AutoClient.csprojResolveAssemblyReference.cache
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoClient\obj\Debug\AutoClient.dll
+C:\Users\Hoa Phong\Downloads\Auto PK - New (2)\Auto PK - New\AutoClient\obj\Debug\AutoClient.pdb
